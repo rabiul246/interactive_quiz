@@ -1,7 +1,12 @@
   const questions = [
     {
-      question: "What is the capital of France?",
-      answers: ["Berlin", "Madrid", "Paris", "Lisbon"],
+      question: "What is DOM?",
+      answers: [
+        "Document Object Management",
+        "Data Object Model",
+        "Document Object Model",
+        "Desktop Oriented Module"
+      ],
       correct: 2
     },
     {
